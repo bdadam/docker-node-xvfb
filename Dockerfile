@@ -1,4 +1,4 @@
-FROM node:6.8
+FROM node:7.2
 
 MAINTAINER autoscout24
 
